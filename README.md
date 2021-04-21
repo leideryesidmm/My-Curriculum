@@ -68,7 +68,7 @@ El proyecto se desplego en el sitio web gitlab.com y para ver el demo de la apli
 
 ***
 ### Autor(es)
-Proyecto desarrollado por:[Leider Martinez] (<leideryesidmm@ufps.edu.co>) y [Matilde Arévalo] (<matildealexandraal@ufps.edu.co>).
+Proyecto desarrollado por:[Leider Martinez](<leideryesidmm@ufps.edu.co>) y [Matilde Arévalo](<matildealexandraal@ufps.edu.co>).
 
 
 ***
