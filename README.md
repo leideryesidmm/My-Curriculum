@@ -2,7 +2,7 @@
 ![Pizzería](./images/encabezado.png)
 # Título del proyecto:
 
-#### Pizzería la QQteña 
+#### Curruculum Vitae 
 ***
 ## Índice
 1. [Características](#características)
