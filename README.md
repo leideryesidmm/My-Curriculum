@@ -17,15 +17,16 @@
 
 #### Características:
   - Uso de CSS recomendado: [ver](https://gitlab.com/leiderMartinez/my-curriculum/-/tree/master/css)
-  - 
+  - Basado en el mockup: [ver](https://www.dropbox.com/s/s8u22zgwl1ipacn/Actividad%20Hoja%20de%20Vida-ufps-CSS.pdf?dl=0)
 ***
 
   #### Contenido del proyecto
-  - [index.html](https://gitlab.com/leiderMartinez/pizzeria-la-qqtena/-/blob/master/index.html): Archivo principal donde se invoca una funcion al cargarse y muestra un formulario donde se ingresa la cantidad de pizzas y sus tamaños respectivos.
-  - [html/opciones.html](https://gitlab.com/leiderMartinez/pizzeria-la-qqtena/-/blob/master/html/opciones.html): Archivo en el cual se invoca una funcion al cargarse que inserta un formulario, donde se llena los sabores de las pizzas y los adicionales del pedido leyendo todo el menu desde un JSON.
-  - [html/factura.html](https://gitlab.com/leiderMartinez/pizzeria-la-qqtena/-/blob/master/html/factura.html): Archivo en el cual se calcula la factura a pagar dependiendo de los tamaños, sabores y adicionales. Se invoca una funcion al cargarse que inserta una tabla donde aparece la descripcion detallada del pedido y sus precios, ademas de mostrar el total a pagar.
-  - [js/proceso.js](https://gitlab.com/leiderMartinez/pizzeria-la-qqtena/-/blob/master/js/pizzeria.js): Archivo JS con el proceso de lectura del JSON y sus funciones adicionales para la impresión de resultados, claculo de precios, comparaciones y demas procedimientos necesarios.
-
+  - [index.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/index.html): Archivo donde se carga la pagina principal.
+  - [html/summary.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/summary.html): Archivo en el cual se encuentra el resumen de todo el curriculum vitae.
+  - [html/skill_personal.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/skill_personal.html): Archivo en el cual se muestran las habilidades personales.
+  - [html/skill_academic.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/skill_academic.html): Archivo en el cual se muestran las habilidades academicas.
+  - [html/projects.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/projects.html): Archivo en el cual se muestran los proyectos realizados en distintas areas y una descripcion breve de ellos.
+  - [html/education.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/education.html): Archivo en el cual se muestran los estudios cursados.
 ***
 #### Tecnologías
 
