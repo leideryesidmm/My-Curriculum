@@ -16,12 +16,10 @@
 ***
 
 #### Características:
-
-  - Proyecto con lectura de datos json a través de la API fecth JavaScript
-  - Carga dinámica del JSON 
-  - Archivo json con el menu de la Pizzeria: [ver](https://raw.githubusercontent.com/madarme/persistencia/main/pizza.json)
-  - Uso de Bootstrap como base de estilo en CSS: [ver](https://getbootstrap.com/)
+  - Uso de CSS recomendado: [ver](https://gitlab.com/leiderMartinez/my-curriculum/-/tree/master/css)
+  - 
 ***
+
   #### Contenido del proyecto
   - [index.html](https://gitlab.com/leiderMartinez/pizzeria-la-qqtena/-/blob/master/index.html): Archivo principal donde se invoca una funcion al cargarse y muestra un formulario donde se ingresa la cantidad de pizzas y sus tamaños respectivos.
   - [html/opciones.html](https://gitlab.com/leiderMartinez/pizzeria-la-qqtena/-/blob/master/html/opciones.html): Archivo en el cual se invoca una funcion al cargarse que inserta un formulario, donde se llena los sabores de las pizzas y los adicionales del pedido leyendo todo el menu desde un JSON.
