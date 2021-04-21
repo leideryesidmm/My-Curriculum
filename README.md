@@ -69,11 +69,13 @@ El software es necesario para ver la interacción por consola y depuración del 
 ***
 ### Demo
 
-El proyecto se desplego en el servidor madarme.co y para ver el demo de la aplicación puede dirigirse a: [Pizzería la QQteña](http://ufps22.madarme.co/Pizzeria/index.html).
+El proyecto se desplego en el sitio web gitlab.com y para ver el demo de la aplicación puede dirigirse a: [Curriculum vitae](http://leidermartinez.gitlab.io/my-curriculum/).
 
 ***
 ### Autor(es)
-Proyecto desarrollado por [Leider Martinez] (<leideryesidmm@ufps.edu.co>).
+Proyecto desarrollado por:
+[Leider Martinez] (<leideryesidmm@ufps.edu.co>).
+[Matilde Arévalo] (<matildealexandraal@ufps.edu.co>).
 
 
 ***
