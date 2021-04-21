@@ -48,9 +48,9 @@ Usted puede ver el siguiente marco conceptual sobre CSS:
 ***
 ### Instalación
 
-```sh
+
 1. Local
-  - Descargar el repositorio ubicado en [descargar] (http://gitlab.com/leiderMartinez/my-curriculum)
+  - Descargar el repositorio ubicado en - [descargar](http://gitlab.com/leiderMartinez/my-curriculum)
   - Invocar oágina index.html desde el navegador predeterminado.
 2. Gitlab
   - Realizar un "fork" del repositorio ubicado en (http://gitlab.com/leiderMartinez/my-curriculum)
@@ -59,7 +59,7 @@ Usted puede ver el siguiente marco conceptual sobre CSS:
   - Dar clic a "create merge request" y a continuación dar clic en "merge".
   - Dirigirse a la sección "setting pages" para obtener el enlace del hosting.
 
-```
+
 
 ***
 ### Demo
