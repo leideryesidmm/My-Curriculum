@@ -31,40 +31,34 @@
 #### Tecnologías
 
   - HTML5
-  - JavaScript
-  - Bootstrap
-
-Usted puede ver el siguiente marco conceptual sobre la API fetch:
-
-  - [Vídeo explicativo lectura con fetch()](https://www.youtube.com/watch?v=DP7Hkr2ss_I)
-  - [Gúia de Mozzilla JSON](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/JSON)
-  - [Breve esplicación del JSON](https://www.w3schools.com/whatis/whatis_json.asp)
-
-Usted puede ver el siguiente marco conceptual sobre Bootstrap:
-  - [Vídeo explicativo de Bootstrap](https://www.youtube.com/watch?v=59pex8k8Xr8)
+  - CSS
 
 Usted puede ver el siguiente marco conceptual sobre HTML5:
   - [Guia completa de HTML5](https://www.w3schools.com/html/default.asp)
 
-Usted puede ver el siguiente marco conceptual sobre JavaScript:
-  - [Guia completa de JavaScript](https://www.w3schools.com/js/default.asp)
+Usted puede ver el siguiente marco conceptual sobre CSS:
+  - [Guia completa de JavaScript](https://www.w3schools.com/css/default.asp)
 
   ***
 #### IDE
 
-- El proyecto se desarrolla usando sublime text 3 
-- Visor de JSON - [ir](http://jsonviewer.stack.hu/)
+- El proyecto se desarrolla usando Sublime Text 3 
+- Enlace de descarga Sublime Text 3 - [ir](https://www.sublimetext.com/3)
 
 ***
 ### Instalación
 
-Firefox Devoloper Edition-> [descargar](https://www.mozilla.org/es-ES/firefox/developer/).
-El software es necesario para ver la interacción por consola y depuración del código JS
-
-
 ```sh
--Descargar proyecto
--Invocar página index.html desde Firefox 
+1. Local
+  - Descargar el repositorio ubicado en (http://gitlab.com/leiderMartinez/my-curriculum)
+  - Invocar oágina index.html desde el navegador predeterminado.
+2. Gitlab
+  - Realizar un "fork" del repositorio ubicado en (http://gitlab.com/leiderMartinez/my-curriculum)
+  - Crear templates de html.
+  - Realizar un "commit" para guardar los cambios efectuados.
+  - Dar clic a "create merge request" y a continuación dar clic en "merge".
+  - Dirigirse a la sección "setting pages" para obtener el enlace del hosting.
+
 ```
 
 ***
@@ -74,9 +68,7 @@ El proyecto se desplego en el sitio web gitlab.com y para ver el demo de la apli
 
 ***
 ### Autor(es)
-Proyecto desarrollado por:
-[Leider Martinez] (<leideryesidmm@ufps.edu.co>).
-[Matilde Arévalo] (<matildealexandraal@ufps.edu.co>).
+Proyecto desarrollado por:[Leider Martinez] (<leideryesidmm@ufps.edu.co>) y [Matilde Arévalo] (<matildealexandraal@ufps.edu.co>).
 
 
 ***
