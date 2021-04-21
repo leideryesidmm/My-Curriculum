@@ -50,7 +50,7 @@ Usted puede ver el siguiente marco conceptual sobre CSS:
 
 ```sh
 1. Local
-  - Descargar el repositorio ubicado en (http://gitlab.com/leiderMartinez/my-curriculum)
+  - Descargar el repositorio ubicado en [descargar] (http://gitlab.com/leiderMartinez/my-curriculum)
   - Invocar oágina index.html desde el navegador predeterminado.
 2. Gitlab
   - Realizar un "fork" del repositorio ubicado en (http://gitlab.com/leiderMartinez/my-curriculum)
