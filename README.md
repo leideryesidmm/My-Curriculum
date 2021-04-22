@@ -13,7 +13,7 @@
 7. [Autor(es)](#autores)
 8. [Institución Académica](#institución-académica)
 ***
-![youtube](https://www.youtube.com/watch?v=y6XdzBNC0_0)
+
 #### Características:
   - Uso de CSS recomendado: [ver](https://gitlab.com/leiderMartinez/my-curriculum/-/tree/master/css)
   - Basado en el mockup: [ver](https://www.dropbox.com/s/s8u22zgwl1ipacn/Actividad%20Hoja%20de%20Vida-ufps-CSS.pdf?dl=0)
