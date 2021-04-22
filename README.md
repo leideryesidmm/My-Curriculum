@@ -1,1 +1,1 @@
-smncjs
+![Banner](img/portada-web.png)
