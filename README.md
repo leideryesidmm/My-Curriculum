@@ -1,1 +1,1 @@
-![Banner](https://leidermartinez.gitlab.io/my-curriculum/img/portada-web.png)
+![Banner](http://www.madarme.co/portada-web.png)
