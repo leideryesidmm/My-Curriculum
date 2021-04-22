@@ -1,5 +1,4 @@
-![Pizzería](./images/encabezado.png)
-![Pizzería](./images/encabezado.png)
+![FOTO](img/portada-web.png)
 # Título del proyecto:
 
 #### Curruculum Vitae 
@@ -14,7 +13,7 @@
 7. [Autor(es)](#autores)
 8. [Institución Académica](#institución-académica)
 ***
-
+![youtube](https://www.youtube.com/watch?v=y6XdzBNC0_0)
 #### Características:
   - Uso de CSS recomendado: [ver](https://gitlab.com/leiderMartinez/my-curriculum/-/tree/master/css)
   - Basado en el mockup: [ver](https://www.dropbox.com/s/s8u22zgwl1ipacn/Actividad%20Hoja%20de%20Vida-ufps-CSS.pdf?dl=0)
@@ -69,7 +68,6 @@ El proyecto se desplego en el sitio web gitlab.com y para ver el demo de la apli
 ***
 ### Autor(es)
 Proyecto desarrollado por:[Leider Martinez](<leideryesidmm@ufps.edu.co>) y [Matilde Arévalo](<matildealexandraal@ufps.edu.co>).
-![youtube](https://www.youtube.com/watch?v=oxaH9CFpeEE)
 
 ***
 ### Institución Académica   
