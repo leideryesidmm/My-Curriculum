@@ -69,7 +69,7 @@ El proyecto se desplego en el sitio web gitlab.com y para ver el demo de la apli
 ***
 ### Autor(es)
 Proyecto desarrollado por:[Leider Martinez](<leideryesidmm@ufps.edu.co>) y [Matilde Arévalo](<matildealexandraal@ufps.edu.co>).
-
+![youtube](https://www.youtube.com/watch?v=oxaH9CFpeEE)
 
 ***
 ### Institución Académica   
@@ -80,4 +80,4 @@ Proyecto desarrollado en la Materia programación web del  [Programa de Ingenier
    [Universidad Francisco de Paula Santander]:<https://ww2.ufps.edu.co/>
 
 
-   ![youtube] (https://www.youtube.com/watch?v=oxaH9CFpeEE)
+   
