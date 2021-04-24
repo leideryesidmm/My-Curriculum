@@ -35,7 +35,7 @@
 Se puede visualizar la version demo [aqui](https://leidermartinez.gitlab.io/my-curriculum/)
 
 #### Autor(es)
-Realizado por: [Leider Martinez](<leideryesidmm@ufps.edu.co>)
+Realizado por: [Leider Martinez](leideryesidmm@ufps.edu.co)
 #### Institución Académica
 
 Proyecto desarrollado en la materia de programación web de [Ingeniería de Sistemas](https://ingsistemas.cloud.ufps.edu.co/) de la [Universidad Francisco de Paula Santander](https://ww2.ufps.edu.co/)
