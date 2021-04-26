@@ -80,7 +80,7 @@ El proyecto se desarrolla usando Sublime Text 3 - [Descargar](https://www.sublim
 
 El proyecto se desplego en el sitio web gitlab.com y para ver el demo de la aplicación puede dirigirse a: [Curriculum vitae](http://leidermartinez.gitlab.io/my-curriculum/).
 
-![Pagina Principal]()
+![Pagina Principal](img/pp.jpg)
 
 
 ### Autor(es)
