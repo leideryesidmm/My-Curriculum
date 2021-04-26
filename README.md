@@ -36,18 +36,14 @@ ___
 #### Tecnologías
 ___
 
-  - [![HTML5](https://img.shields.io/badge/-HTML5-blue )](https://developer.mozilla.org/es/docs/Web/Guide/HTML/HTML5)
+  1. [![HTML5](https://img.shields.io/badge/-HTML5-blue )](https://developer.mozilla.org/es/docs/Web/Guide/HTML/HTML5)
+  
+      - HTML5 provee básicamente tres características: Estructura, estilo y funcionalidad. HTML5 es considerado el producto de la combinación de HTML, CSS y JavaScript. Estas tecnologías son altamente dependientes y actúan como una sola unidad organizada bajo la especificación de HTML5. HTML está a cargo de la estructura, CSS presenta esa estructura y su contenido en la pantalla y JavaScript hace el resto que es extremadamente significativo. Más alla de la integración, la estructura sigue siendo parte esencial, la misma provee los elementos necesarios para ubicar contenido estático y dinámico, y es también una plataforma básica para aplicaciones.
 
+      - Usted puede ver el siguiente marco conceptual y aprender sobre HTML5: [Guia completa de HTML5](https://www.w3schools.com/html/default.asp)
 
-
-
-   Usted puede ver el siguiente marco conceptual y aprender sobre HTML5: [Guia completa de HTML5](https://www.w3schools.com/html/default.asp)
-
-  - [![CSS](https://img.shields.io/badge/-CSS-brightgreen)](https://www.w3schools.com/css/default.asp)
-
-
-
-   Usted puede ver el siguiente marco conceptual y aprender sobre CSS: [Guia completa de CSS](https://www.w3schools.com/css/default.asp)
+  2. [![CSS](https://img.shields.io/badge/-CSS-brightgreen)](https://www.w3schools.com/css/default.asp)
+  - Usted puede ver el siguiente marco conceptual y aprender sobre CSS: [Guia completa de CSS](https://www.w3schools.com/css/default.asp)
 
  
 #### IDE
@@ -100,7 +96,7 @@ Proyecto desarrollado en la Materia programación web del  [Programa de Ingenier
 
 ### Referencias 
 ___
-https://www.qualitydevs.com/2020/11/09/que-es-html5/
+  -Gauchat, J. D. (2012). El gran libro de HTML5, CSS3 y Javascript. Marcombo.
 
 
 
