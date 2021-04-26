@@ -37,17 +37,17 @@ ___
 ___
 
   - [![HTML5](https://img.shields.io/badge/-HTML5-blue )](https://developer.mozilla.org/es/docs/Web/Guide/HTML/HTML5)
-  El HTML es un lenguaje de marcación de elementos para la creación de documentos hipertexto, muy fácil de aprender, lo que permite que cualquier persona, aunque no haya programado en la vida, pueda enfrentarse a la tarea de crear una web. El elemento principal de HTML5 son las etiquetas, que también estaban en la versión anterior, pero facilita a los navegadores la interpretación de código mediante la inserción de elementos como los vídeos, que desde que se implementó los usuarios ya no tienen que descargarse herramientas adicionales para poder visualizarlos.
 
-Otro de los elementos incorporados a HTML5 son las APIs (Application Programming Interfaces o Interfaz de programación de aplicaciones) que permiten incluir, a través de JavaScript (Lenguaje de programación) componentes complejos como juegos o  mapas de geolocalización, entre otros. También permite trabajar sin conectividad, ya que permite almacenar datos localmente para trabajar sin conexión de forma eficiente. Además de todo lo anterior HTML5 favorece al SEO (Posicionamiento orgánico) porque ayuda a los motores de búsqueda a entender mejor el contenido de la web mediante sus etiquetas categorizadas.
+
+
+
+    Usted puede ver el siguiente marco conceptual y aprender sobre HTML5: [Guia completa de HTML5](https://www.w3schools.com/html/default.asp)
 
   - [![CSS](https://img.shields.io/badge/-CSS-brightgreen)](https://www.w3schools.com/css/default.asp)
 
-Usted puede ver el siguiente marco conceptual y aprender sobre HTML5:
-  - [Guia completa de HTML5](https://www.w3schools.com/html/default.asp)
 
-Usted puede ver el siguiente marco conceptual y aprender sobre CSS:
-  - [Guia completa de CSS](https://www.w3schools.com/css/default.asp)
+
+    Usted puede ver el siguiente marco conceptual y aprender sobre CSS: [Guia completa de CSS](https://www.w3schools.com/css/default.asp)
 
  
 #### IDE
