@@ -5,9 +5,9 @@
 *
 ## Índice
 1. 📋[Características](#características)
-2. 🗂[Contenido del proyecto](#contenido-del-proyecto)
+2. 📝[Contenido del proyecto](#contenido-del-proyecto)
 3. 💻[Tecnologías](#tecnologías)
-4.  📲[IDE](#ide)
+4. 📲[IDE](#ide)
 5. 📥[Instalación](#instalación)
 6. [Demo](#demo)
 7. 👫[Autor(es)](#autores)
