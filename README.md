@@ -16,11 +16,13 @@
 
 
 #### Características:
+___
   - Uso de CSS recomendado: [ver](https://gitlab.com/leiderMartinez/my-curriculum/-/tree/master/css)
   - Basado en el mockup: [ver](https://www.dropbox.com/s/s8u22zgwl1ipacn/Actividad%20Hoja%20de%20Vida-ufps-CSS.pdf?dl=0)
 
 
   #### Contenido del proyecto
+  ___
   | Ruta del archivo | Descripción |
   | --- | --- | 
   | [index.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/index.html) | Archivo donde se carga la pagina principal. |
@@ -32,6 +34,7 @@
 
 
 #### Tecnologías
+___
 
   - [![HTML5](https://img.shields.io/badge/-HTML5-blue )](https://developer.mozilla.org/es/docs/Web/Guide/HTML/HTML5)
   El HTML es un lenguaje de marcación de elementos para la creación de documentos hipertexto, muy fácil de aprender, lo que permite que cualquier persona, aunque no haya programado en la vida, pueda enfrentarse a la tarea de crear una web. El elemento principal de HTML5 son las etiquetas, que también estaban en la versión anterior, pero facilita a los navegadores la interpretación de código mediante la inserción de elementos como los vídeos, que desde que se implementó los usuarios ya no tienen que descargarse herramientas adicionales para poder visualizarlos.
@@ -48,7 +51,7 @@ Usted puede ver el siguiente marco conceptual y aprender sobre CSS:
 
   
 #### IDE
-
+___
 El proyecto se desarrolla usando Sublime Text 3 - [Descargar](https://www.sublimetext.com/3)
 
   Sublime Text es un editor de Texto para escribir código en casi cualquier formato de archivo. Está especialmente pensado para escribir sin distracciones. Esto quiere decir que visualmente ofrece un entorno oscuro donde las líneas de código que escribas resaltarán para que puedas centrarte exclusivamente en ellas.
@@ -61,7 +64,7 @@ El proyecto se desarrolla usando Sublime Text 3 - [Descargar](https://www.sublim
 ![Sublime Text 3](/img/Sublime-Text-3-pantallazo-1024x532.png)
 
 ### Instalación
-
+___
 
 1. Local
   - Descargar el repositorio ubicado en - [descargar](http://gitlab.com/leiderMartinez/my-curriculum)
@@ -77,24 +80,26 @@ El proyecto se desarrolla usando Sublime Text 3 - [Descargar](https://www.sublim
 
 
 ### Demo
-
+___
 El proyecto se desplego en el sitio web gitlab.com y para ver el demo de la aplicación puede dirigirse a: [Curriculum vitae](http://leidermartinez.gitlab.io/my-curriculum/).
 
 ![Pagina Principal](img/pp.jpg)
 
 
 ### Autor(es)
+___
 Proyecto desarrollado por: 
 - Leider Yesid Martinez Mandon (<leideryesidmm@ufps.edu.co>)
 - Matilde Alexandra Arévalo Leon (<matildealexandraal@ufps.edu.co>).
 
 
 ### Institución Académica   
+___
 Proyecto desarrollado en la Materia programación web del  [Programa de Ingeniería de Sistemas] de la [Universidad Francisco de Paula Santander]
 
 
 ### Referencias 
-
+___
 https://www.qualitydevs.com/2020/11/09/que-es-html5/
 
 
