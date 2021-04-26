@@ -80,9 +80,11 @@ El proyecto se desarrolla usando Sublime Text 3 - [Descargar](https://www.sublim
 
 El proyecto se desplego en el sitio web gitlab.com y para ver el demo de la aplicación puede dirigirse a: [Curriculum vitae](http://leidermartinez.gitlab.io/my-curriculum/).
 
+![Pagina Principar]()
+
 
 ### Autor(es)
-Proyecto desarrollado por:[Leider Martinez](<leideryesidmm@ufps.edu.co>) y [Matilde Arévalo](<matildealexandraal@ufps.edu.co>).
+Proyecto desarrollado por:[Leider Martinez] (<leideryesidmm@ufps.edu.co>) y [Matilde Arévalo] (<matildealexandraal@ufps.edu.co>).
 
 
 ### Institución Académica   
