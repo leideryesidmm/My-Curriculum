@@ -9,7 +9,7 @@
 3. 💻[Tecnologías](#tecnologías)
 4. 📲[IDE](#ide)
 5. 📥[Instalación](#instalación)
-6. [Demo](#demo)
+6. 🖥[Demo](#demo)
 7. 👫[Autor(es)](#autores)
 8. 🏫[Institución Académica](#institución-académica)
 9. 📚[Referencias](#referencias)
@@ -21,12 +21,15 @@
 *
 
   #### Contenido del proyecto
-  - [index.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/index.html): Archivo donde se carga la pagina principal.
-  - [html/summary.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/summary.html): Archivo en el cual se encuentra el resumen de todo el curriculum vitae.
-  - [html/skill_personal.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/skill_personal.html): Archivo en el cual se muestran las habilidades personales.
-  - [html/skill_academic.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/skill_academic.html): Archivo en el cual se muestran las habilidades academicas.
-  - [html/projects.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/projects.html): Archivo en el cual se muestran los proyectos realizados en distintas areas y una descripcion breve de ellos.
-  - [html/education.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/education.html): Archivo en el cual se muestran los estudios cursados.
+  | Ruta del archivo | Descripción |
+  | --- | --- | 
+  | [index.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/index.html) | Archivo donde se carga la pagina principal. |
+  | [html/summary.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/summary.html) | Archivo en el cual se encuentra el resumen de todo el curriculum vitae. |
+  | [html/skill_personal.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/skill_personal.html) | Archivo en el cual se muestran las habilidades personales. |
+  | [html/skill_academic.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/skill_academic.html) | Archivo en el cual se muestran las habilidades academicas.
+  | [html/projects.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/projects.html) | Archivo en el cual se muestran los proyectos realizados en distintas areas y una descripcion breve de ellos. |
+  | [html/education.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/education.html) | Archivo en el cual se muestran los estudios cursados. |
+
 *
 #### Tecnologías
 
