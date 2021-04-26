@@ -41,13 +41,13 @@ ___
 
 
 
-    Usted puede ver el siguiente marco conceptual y aprender sobre HTML5: [Guia completa de HTML5](https://www.w3schools.com/html/default.asp)
+   Usted puede ver el siguiente marco conceptual y aprender sobre HTML5: [Guia completa de HTML5](https://www.w3schools.com/html/default.asp)
 
   - [![CSS](https://img.shields.io/badge/-CSS-brightgreen)](https://www.w3schools.com/css/default.asp)
 
 
 
-    Usted puede ver el siguiente marco conceptual y aprender sobre CSS: [Guia completa de CSS](https://www.w3schools.com/css/default.asp)
+   Usted puede ver el siguiente marco conceptual y aprender sobre CSS: [Guia completa de CSS](https://www.w3schools.com/css/default.asp)
 
  
 #### IDE
@@ -89,7 +89,7 @@ El proyecto se desplego en el sitio web gitlab.com y para ver el demo de la apli
 ### Autor(es)
 ___
 Proyecto desarrollado por: 
-- Leider Yesid Martinez Mandon (<leideryesidmm@ufps.edu.co>)
+- Leider Yesid Martinez Mandon (<leideryesidmm@ufps.edu.co>).
 - Matilde Alexandra Arévalo Leon (<matildealexandraal@ufps.edu.co>).
 
 
@@ -105,5 +105,5 @@ https://www.qualitydevs.com/2020/11/09/que-es-html5/
 
 
 
-[Programa de Ingeniería de Sistemas]: <https://ww2.ufps.edu.co)>
+[Programa de Ingeniería de Sistemas]: <https://ww2.ufps.edu.co>
 [Universidad Francisco de Paula Santander]: <https://ingsistemas.cloud.ufps.edu.co/>
