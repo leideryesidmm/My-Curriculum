@@ -1,4 +1,4 @@
-![FOTO](img/portada-web.png)
+![Curriculum](img/curriculum.jpg)
 # Título del proyecto:
 
 #### Curruculum Vitae 
