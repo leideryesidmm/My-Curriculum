@@ -40,7 +40,7 @@ Usted puede ver el siguiente marco conceptual y aprender sobre HTML5:
   - [Guia completa de HTML5](https://www.w3schools.com/html/default.asp)
 
 Usted puede ver el siguiente marco conceptual y aprender sobre CSS:
-  - [Guia completa de JavaScript](https://www.w3schools.com/css/default.asp)
+  - [Guia completa de CSS](https://www.w3schools.com/css/default.asp)
 
   
 #### IDE
