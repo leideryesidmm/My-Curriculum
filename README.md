@@ -14,13 +14,13 @@
 8. 🏫[Institución Académica](#institución-académica)
 9. 📚[Referencias](#referencias)
 
-___
+
 #### Características:
 ___
   - Uso de CSS recomendado: [ver](https://gitlab.com/leiderMartinez/my-curriculum/-/tree/master/css)
   - Basado en el mockup: [ver](https://www.dropbox.com/s/s8u22zgwl1ipacn/Actividad%20Hoja%20de%20Vida-ufps-CSS.pdf?dl=0)
 
-___
+
   #### Contenido del proyecto
   ___
   | Ruta del archivo | Descripción |
@@ -32,7 +32,7 @@ ___
   | [html/projects.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/projects.html) | Archivo en el cual se muestran los proyectos realizados en distintas areas y una descripcion breve de ellos. |
   | [html/education.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/education.html) | Archivo en el cual se muestran los estudios cursados. |
 
-___
+
 #### Tecnologías
 ___
 
@@ -49,7 +49,7 @@ Usted puede ver el siguiente marco conceptual y aprender sobre HTML5:
 Usted puede ver el siguiente marco conceptual y aprender sobre CSS:
   - [Guia completa de CSS](https://www.w3schools.com/css/default.asp)
 
- ___ 
+ 
 #### IDE
 ___
 El proyecto se desarrolla usando Sublime Text 3 - [Descargar](https://www.sublimetext.com/3)
@@ -62,7 +62,7 @@ El proyecto se desarrolla usando Sublime Text 3 - [Descargar](https://www.sublim
  * Para aprender es una buena opción, porque te ayuda pero no te lo da todo hecho.
  * Funciona tanto en Windows como en Mac y Linux.
 ![Sublime Text 3](/img/Sublime-Text-3-pantallazo-1024x532.png)
-___
+
 ### Instalación
 ___
 
@@ -78,26 +78,26 @@ ___
 
 
 
-___
+
 ### Demo
 ___
 El proyecto se desplego en el sitio web gitlab.com y para ver el demo de la aplicación puede dirigirse a: [Curriculum vitae](http://leidermartinez.gitlab.io/my-curriculum/).
 
 ![Pagina Principal](img/pp.jpg)
 
-___
+
 ### Autor(es)
 ___
 Proyecto desarrollado por: 
 - Leider Yesid Martinez Mandon (<leideryesidmm@ufps.edu.co>)
 - Matilde Alexandra Arévalo Leon (<matildealexandraal@ufps.edu.co>).
 
-___
+
 ### Institución Académica   
 ___
 Proyecto desarrollado en la Materia programación web del  [Programa de Ingeniería de Sistemas] de la [Universidad Francisco de Paula Santander]
 
-___
+
 ### Referencias 
 ___
 https://www.qualitydevs.com/2020/11/09/que-es-html5/
