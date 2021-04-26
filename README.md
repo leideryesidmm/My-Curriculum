@@ -1,54 +1,75 @@
-![Banner](http://www.madarme.co/portada-web.png)
+![FOTO](img/portada-web.png)
 # Título del proyecto:
 
 #### Curruculum Vitae 
-
+*
 ## Índice
-1. [Caracteriísticas](#características)
-2. [Contenido del Proyecto](#contenido-del-proyecto)
+1. [Características](#características)
+2. [Contenido del proyecto](#contenido-del-proyecto)
 3. [Tecnologías](#tecnologías)
 4. [IDE](#ide)
 5. [Instalación](#instalación)
 6. [Demo](#demo)
 7. [Autor(es)](#autores)
 8. [Institución Académica](#institución-académica)
+*
 
-#### Características
-- Uso de Css recomendado: [ver](https://gitlab.com/leiderMartinez/my-curriculum/-/tree/master/css)
-#### Contenido del Proyecto
-- [index.hmtl](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/index.html): Este archivo visualiza la pagina Principal. 
+#### Características:
+  - Uso de CSS recomendado: [ver](https://gitlab.com/leiderMartinez/my-curriculum/-/tree/master/css)
+  - Basado en el mockup: [ver](https://www.dropbox.com/s/s8u22zgwl1ipacn/Actividad%20Hoja%20de%20Vida-ufps-CSS.pdf?dl=0)
+*
 
+  #### Contenido del proyecto
+  - [index.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/index.html): Archivo donde se carga la pagina principal.
+  - [html/summary.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/summary.html): Archivo en el cual se encuentra el resumen de todo el curriculum vitae.
+  - [html/skill_personal.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/skill_personal.html): Archivo en el cual se muestran las habilidades personales.
+  - [html/skill_academic.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/skill_academic.html): Archivo en el cual se muestran las habilidades academicas.
+  - [html/projects.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/projects.html): Archivo en el cual se muestran los proyectos realizados en distintas areas y una descripcion breve de ellos.
+  - [html/education.html](https://gitlab.com/leiderMartinez/my-curriculum/-/blob/master/html/education.html): Archivo en el cual se muestran los estudios cursados.
+*
 #### Tecnologías
-- Uso de Bootstrap: [ir](https://getbootstrap.com/)
-  Usted puede aprender Bootstrap [aqui](https://www.youtube.com/watch?v=ZuOL_DoaG9k)
+
+  - HTML5
+  - CSS
+
+Usted puede ver el siguiente marco conceptual sobre HTML5:
+  - [Guia completa de HTML5](https://www.w3schools.com/html/default.asp)
+
+Usted puede ver el siguiente marco conceptual sobre CSS:
+  - [Guia completa de JavaScript](https://www.w3schools.com/css/default.asp)
+
+  *
 #### IDE
-- Sublime text      puede aprender sublime [aqui](https://www.youtube.com/watch?v=F6XadtOjIek)
-#### Instalación
 
-1. local
-    - Descarga el repositorio ubicado en [Descargar](https://gitlab.com/leiderMartinez/my-curriculum/)
-    - Abrir el archivo index.html desde el navegador predeterminado  
+- El proyecto se desarrolla usando Sublime Text 3 
+- Enlace de descarga Sublime Text 3 - [ir](https://www.sublimetext.com/3)
 
-2. gitlab
-    - Realizando un fork. 
-#### Demo
-Se puede visualizar la version demo [aqui](https://leidermartinez.gitlab.io/my-curriculum/)
-
-#### Autor(es)
-Realizado por: [Leider Martinez](leideryesidmm@ufps.edu.co)
-#### Institución Académica
-
-Proyecto desarrollado en la materia de programación web de [Ingeniería de Sistemas](https://ingsistemas.cloud.ufps.edu.co/) de la [Universidad Francisco de Paula Santander](https://ww2.ufps.edu.co/)
+*
+### Instalación
 
 
+1. Local
+  - Descargar el repositorio ubicado en - [descargar](http://gitlab.com/leiderMartinez/my-curriculum)
+  - Invocar oágina index.html desde el navegador predeterminado.
+2. Gitlab
+  - Realizar un "fork" del repositorio ubicado en - [ir](http://gitlab.com/leiderMartinez/my-curriculum)
+  - Crear templates de html.
+  - Realizar un "commit" para guardar los cambios efectuados.
+  - Dar clic a "create merge request" y a continuación dar clic en "merge".
+  - Dirigirse a la sección "setting pages" para obtener el enlace del hosting.
 
 
-| Head 1 | Head 2  |           |   |   |
-|--------|---------|-----------|---|---|
-|        | Texto 2 |           |   |   |
-|        |         | Texto 3   |   |   |
-|        |         | Texto 3.2 |   |   |
 
-☺
+*
+### Demo
 
+El proyecto se desplego en el sitio web gitlab.com y para ver el demo de la aplicación puede dirigirse a: [Curriculum vitae](http://leidermartinez.gitlab.io/my-curriculum/).
+
+*
+### Autor(es)
+Proyecto desarrollado por:[Leider Martinez](<leideryesidmm@ufps.edu.co>) y [Matilde Arévalo](<matildealexandraal@ufps.edu.co>).
+
+*
+### Institución Académica   
+Proyecto desarrollado en la Materia programación web del  [Programa de Ingeniería de Sistemas] de la [Universidad Francisco de Paula Santander]
 
