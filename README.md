@@ -33,13 +33,13 @@
 *
 #### Tecnologías
 
-  - HTML5
-  - CSS
+  - [![HTML5](https://img.shields.io/badge/-HTML5-blue )](https://developer.mozilla.org/es/docs/Web/Guide/HTML/HTML5)
+  - [![CSS](https://img.shields.io/badge/-CSS-brightgreen)](https://www.w3schools.com/css/default.asp)
 
-Usted puede ver el siguiente marco conceptual sobre HTML5:
+Usted puede ver el siguiente marco conceptual y aprender sobre HTML5:
   - [Guia completa de HTML5](https://www.w3schools.com/html/default.asp)
 
-Usted puede ver el siguiente marco conceptual sobre CSS:
+Usted puede ver el siguiente marco conceptual y aprender sobre CSS:
   - [Guia completa de JavaScript](https://www.w3schools.com/css/default.asp)
 
   *
