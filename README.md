@@ -58,7 +58,7 @@ El proyecto se desarrolla usando Sublime Text 3 - [Descargar](https://www.sublim
  * Resalta todo tipo de lenguaje con colores para visualmente detectar fallos a simple vista.
  * Para aprender es una buena opción, porque te ayuda pero no te lo da todo hecho.
  * Funciona tanto en Windows como en Mac y Linux.
-
+![Sublime Text 3](/img/Sublime-Text-3-pantallazo-1024x532.png)
 
 ### Instalación
 
