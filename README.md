@@ -49,8 +49,14 @@ Usted puede ver el siguiente marco conceptual y aprender sobre CSS:
   
 #### IDE
 
-- El proyecto se desarrolla usando Sublime Text 3 
-- Enlace de descarga Sublime Text 3 - [ir](https://www.sublimetext.com/3)
+- El proyecto se desarrolla usando Sublime Text 3 - [Descargar](https://www.sublimetext.com/3)
+
+  Sublime Text es un editor de Texto para escribir código en casi cualquier formato de archivo. Está especialmente pensado para escribir sin distracciones. Esto quiere decir que visualmente ofrece un entorno oscuro donde las líneas de código que escribas resaltarán para que puedas centrarte exclusivamente en ellas.
+  Ventajas de Sublime Text:
+* Muy liviano, fácil de instalar y tiene una versión portable.
+* Resalta todo tipo de lenguaje con colores para visualmente detectar fallos a simple vista.
+* Para aprender es una buena opción, porque te ayuda pero no te lo da todo hecho.
+* Funciona tanto en Windows como en Mac y Linux.
 
 
 ### Instalación
