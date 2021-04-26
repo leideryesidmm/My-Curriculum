@@ -43,7 +43,11 @@ ___
       - Usted puede ver el siguiente marco conceptual y aprender sobre HTML5: [Guia completa de HTML5](https://www.w3schools.com/html/default.asp)
 
   2. [![CSS](https://img.shields.io/badge/-CSS-brightgreen)](https://www.w3schools.com/css/default.asp)
-  - Usted puede ver el siguiente marco conceptual y aprender sobre CSS: [Guia completa de CSS](https://www.w3schools.com/css/default.asp)
+     - CSS define el aspecto gráfico de los elementos HTML. Éstos pueden ser definidos en una hoja de estilos externa o internamente en el propio documento HTML. Cuando se define en un archivo externa, los estilos pueden ser compartidos por muchas páginas, lo que le permite cambiar instantaneamente la apariencia visual de todas las páginas modificando solo el archivo en el que se definen los estilos.
+El uso de CSS da consistencia, ahorra tiempo y facilita en gran medida la escritura de las páginas web, haciendolas más flexibles y ligeras, controlando su aspecto gráfico con mayor precisión y mayor facilidad para la correción de errores.
+CSS es el formato recomendado para las páginas escritas en formato HTML en base a los estándares de "Cascading Style Sheets", publicado por el World Wide Web Consortium.
+  
+     - Usted puede ver el siguiente marco conceptual y aprender sobre CSS: [Guia completa de CSS](https://www.w3schools.com/css/default.asp)
 
  
 #### IDE
@@ -97,6 +101,7 @@ Proyecto desarrollado en la Materia programación web del  [Programa de Ingenier
 ### Referencias 
 ___
     - Gauchat, J. D. (2012). El gran libro de HTML5, CSS3 y Javascript. Marcombo.
+    - Durango, A. (2015). Diseño Web con CSS: 2ª Edición. IT Campus Academy.
 
 
 
