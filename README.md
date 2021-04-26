@@ -96,7 +96,7 @@ Proyecto desarrollado en la Materia programación web del  [Programa de Ingenier
 
 ### Referencias 
 ___
-  -Gauchat, J. D. (2012). El gran libro de HTML5, CSS3 y Javascript. Marcombo.
+    - Gauchat, J. D. (2012). El gran libro de HTML5, CSS3 y Javascript. Marcombo.
 
 
 
